@@ -4,7 +4,6 @@ users = [
 ]
 
 
-
-
+uptade_user(users)
 
 print(users)
